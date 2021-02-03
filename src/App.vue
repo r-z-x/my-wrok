@@ -1,7 +1,10 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <h1>AAAAAAAA</h1>
+<<<<<<< HEAD
+=======
+    <h1>BBBBBBBBBBBB</h1>
+>>>>>>> master-B
     <router-view/>
   </div>
 </template>
